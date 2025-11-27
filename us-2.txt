@@ -1,0 +1,20 @@
+Explique con sus palabras y de la forma más breve posible, el proceso de desarrollo de un proyecto utilizando SCRUM. Mencione los actores, los artefactos y las ceremonias.
+
+Bien, SCRUM es un marco de trabajo ligero, iteractivo e icremental, para desarrollar productos complejos y se divide en ciclos cortos llamados Sprints.
+
+Tenemos 3 Roles:
+Product Owner: Quien es la voz del cliente, y se encarga del product backlog, donde define las tareas y decide el que.
+Scrum Master: Es el lider servicial, que protege al equipo de problemas externos y su objetivo es que funcione correctamente la metodologia SCRUM.
+Equipo de desarrollo: son autos-organizados y multidisciplinarios conjunto de 3 a 9 personas, son los responsables de entregar el incremento, ellos deciden el como.
+
+Artefactos: 
+Product Backlog: Lista que prioriza todo lo que se necesita del producto, nunca esta terminada, es dinamica
+Sprint Backlog: lista de tareas, que se seleccionan del product backlog para realizar en el sprint.
+Incremento: Entregar algo funcionando al cliente. 
+
+Ceremonias:
+Sprint Planning: inicio de Sprint, definimos que se hara y como.
+Daily Sprint: Reunion de 15 minutos todos los dias, para preguntarse, que hice ayer?, como? y si tengo algun problema.
+Review: al final del sprint, para demostrar algo funcionando al usuario.
+Retrospectiva: despues del review, para analizar metodos de trabajo del equipo y ver cque cosas pueden mejorar como equipo.
+Refinamiento: verificar historias futuras.
