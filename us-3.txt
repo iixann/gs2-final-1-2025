@@ -1,0 +1,7 @@
+Siguiendo el modelo tradicional para escribir historias de usuarios, redacte un ejemplo.
+
+Siguiendo el modelo tradicional vamos a esribir una historia de usuario sobre un login:
+
+Como Usuario.
+Quiero Un loguin.
+Para poder acceder al sistema.
