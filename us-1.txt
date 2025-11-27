@@ -1,0 +1,6 @@
+Si hablamos de tipos de requisitos. Existen dos grandes tipos. ¿Cuáles son? (solo mencionarlos) Redacte con sus palabras un ejemplo de cada uno.
+
+RTA: los dos tipos de requisitos son funcionales y no funcionales
+
+Los funcionales: definen el que debe hacer el sistema, por ejemplo, que tiene que hacer para cumplir con las necesidades del usuario
+y los no funcionales: el como, como debe comportarse el sistema. 
